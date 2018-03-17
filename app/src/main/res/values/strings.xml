@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabCalificado</string>
+    <string-array name="android_layout_arrays">
+        <item>Completo</item>
+        <item>Medio</item>
+        <item>Solo Anime</item>
+
+    </string-array>
+
+</resources>
